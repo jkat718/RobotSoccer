@@ -30,7 +30,7 @@ public class Game {
         r.pos.y = 0;
         
         draw();
-        r.move();
+        b.move();
         draw();
     }
     
